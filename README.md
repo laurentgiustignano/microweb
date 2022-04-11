@@ -1,4 +1,4 @@
-# Exemple minimalite en microservices avec Docker
+# Exemple minimaliste en microservices avec Docker
 
 Basé sur l'exemple de Xavki : https://gitlab.com/xavki/presentations_docker/-/tree/master/5-microservices
 
